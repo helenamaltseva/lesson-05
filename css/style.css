@@ -1,0 +1,67 @@
+.container {
+  background: #f6f6f6;
+}
+
+.container {width: 1440px; 
+}
+
+.container { 
+  text-align: center;
+}
+
+.content-block {
+  padding-left: 235px;
+  padding-right: 235px;
+}
+
+nav {width: 1440px; 
+}
+
+#menu, #menu ul {
+  padding-left: 235px;
+  padding-right: 235px;
+}
+
+#menu, #menu li {
+  margin: 0;
+  padding: 0;
+}
+
+#menu {
+  max-width: 550px; 
+  margin: 0 auto; 
+  text-align: center;
+}
+
+#menu li{
+  display:inline-block;
+  text-align: center;
+}
+
+#menu a {
+  display: block;
+  padding: 5px 15px;
+  font-size:150%;
+  text-decoration: none;
+}
+
+h1 {
+  padding-left: 235px;
+  font-size:300%;
+}
+
+.content-block2-title {
+  font-size:200%; 
+}
+
+.content-block2-text {
+  font-size:120%;
+}
+
+.content-block4-title {
+  font-size:250%; 
+}
+
+.content-block4-text {
+  font-size:140%;
+}
