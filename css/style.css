@@ -9,9 +9,10 @@
   text-align: center;
 }
 
-.content-block {
+.content-block1 {
   padding-left: 235px;
   padding-right: 235px;
+  text-align: left;
 }
 
 nav {width: 1440px; 
@@ -46,7 +47,6 @@ nav {width: 1440px;
 }
 
 h1 {
-  padding-left: 235px;
   font-size:300%;
 }
 
